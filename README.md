@@ -17,17 +17,7 @@ Suggested AI Video Generation Tools:
 RunwayML, Pika Labs, Synthesia, Kaiber AI, Canva AI Video, Luma AI.
 
 Output:
-The document must contain the following:
-
-Prompts Used 
-
-AI-generated Videos link 
-
-Screenshots of generated scenes 
-
-Comparison between simple and detailed prompts 
-
-Observations and analysis
+[prompt (2).pdf](https://github.com/user-attachments/files/28622034/prompt.2.pdf)
 
 Result:
 Thus, the prompting techniques for AI video generation were successfully explored and analyzed using multiple prompt structures.
